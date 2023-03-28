@@ -3,7 +3,7 @@
 
 <h3 align="left">¿Que hago?</h3>
 <p align="left">
-  me dedico a realizar proyectos que me permitan avanzar en mi formación como programador y actualmente me estoy enfocando en crear apps que brinden soluciones en el mundo web3
+  me dedico a realizar proyectos que me permitan avanzar en mi formación como programador y actualmente me estoy enfocando en crear soluciones enfocadas en el mundo web3
 </p>
 
 <h3 align="left">¿Que tecnologias uso?:</h3>
